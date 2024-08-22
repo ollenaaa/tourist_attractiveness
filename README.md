@@ -1,6 +1,6 @@
 ## Tourist Attractiveness Of A Country
 
-Overview
+<h1>Overview</h1>
 
 ##
 
@@ -8,7 +8,7 @@ This project employs the Mamdani fuzzy inference method to evaluate tourist attr
 
 ##
 
-Methodology
+<h1>Methodology</h1>
 
 ##
 
@@ -27,3 +27,14 @@ Methodology
     </ul>
   </li>
 </ul>
+
+##
+
+<h1>Results</h1>
+
+##
+
+The results of the study can be useful for determining priorities for the
+development of the country's tourism industry, identifying weaknesses and
+developing appropriate strategies to improve competitiveness in the tourism
+market.
