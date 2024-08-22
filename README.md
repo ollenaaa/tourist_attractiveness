@@ -1,6 +1,6 @@
-## Tourist Attractiveness Of A Country
+<h1>Tourist Attractiveness Of A Country</h1>
 
-<h1>Overview</h1>
+<h3>Overview</h3>
 
 ##
 
@@ -8,7 +8,7 @@ This project employs the Mamdani fuzzy inference method to evaluate tourist attr
 
 ##
 
-<h1>Methodology</h1>
+<h3>Methodology</h3>
 
 ##
 
@@ -30,7 +30,7 @@ This project employs the Mamdani fuzzy inference method to evaluate tourist attr
 
 ##
 
-<h1>Results</h1>
+<h3>Results</h3>
 
 ##
 
