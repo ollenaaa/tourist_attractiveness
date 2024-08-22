@@ -1,0 +1,7 @@
+.vscode
+__pycache__
+e-tourist_venv
+env
+new_env
+components/__pycache__
+.DS_Store

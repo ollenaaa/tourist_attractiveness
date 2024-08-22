@@ -1,0 +1,68 @@
+{
+    "Ukraine": {
+        "air links": 0,
+        "airport": 2510,
+        "taxi": 68400000,
+        "public transport": 205000000,
+        "hotel": 11423,
+        "search hotel": 578000000,
+        "impression": 148,
+        "attraction": 53,
+        "search attraction": 28000000
+    },
+    "Poland": {
+        "air links": 55,
+        "airport": 126000000,
+        "taxi": 43600000,
+        "public transport": 125000000,
+        "hotel": 82077,
+        "search hotel": 357000000,
+        "impression": 85599,
+        "attraction": 146,
+        "search attraction": 297000000
+    },
+    "France": {
+        "air links": 110,
+        "airport": 644000000,
+        "taxi": 179000000,
+        "public transport": 723000000,
+        "hotel": 251209,
+        "search hotel": 2390000000,
+        "impression": 167888,
+        "attraction": 745,
+        "search attraction": 571000000
+    },
+    "United-States": {
+        "air links": 35,
+        "airport": 1550000000,
+        "taxi": 487000000,
+        "public transport": 2100000000,
+        "hotel": 244401,
+        "search hotel": 3400000000,
+        "impression": 118435,
+        "attraction": 1122,
+        "search attraction": 924000000
+    },
+    "Spain": {
+        "air links": 72,
+        "airport": 472000000,
+        "taxi": 99300000,
+        "public transport": 347000000,
+        "hotel": 211309,
+        "search hotel": 1570000000,
+        "impression": 1056101,
+        "attraction": 3736,
+        "search attraction": 205000000
+    },
+    "Bulgaria": {
+        "air links": 31,
+        "airport": 59800000,
+        "taxi": 45600000,
+        "public transport": 104000000,
+        "hotel": 14485,
+        "search hotel": 346000000,
+        "impression": 6405,
+        "attraction": 42,
+        "search attraction": 78300000
+    }
+}
